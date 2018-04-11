@@ -12,5 +12,7 @@ People are unaware of actual meaning of slang words and often end up using them 
 <br>
 <br>
 INTENTS: <br>
-1 . SlangItRightIntent
-2 . AMAZON.HelpIntent
+1 . SlangItRightIntent <br>
+2 . AMAZON.HelpIntent<br>
+3 . AMAZON.StopIntent<br>
+4 . AMAZON.CancelIntent<br>
