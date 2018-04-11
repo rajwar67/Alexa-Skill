@@ -9,3 +9,22 @@ Function name   : My Slang Picker<br>
 <br>
 This skill provides trending slang words on daily basis.The skill was created to vanish the "Slang- gap" between generations.
 People are unaware of actual meaning of slang words and often end up using them inappropriately. This function will pick up random slang words to keep user updated with the content.
+<br>
+<br>
+Intent Schema<br>
+{<br>
+  "intents": [<br>
+    {<br>
+      "intent": "SlangItRightIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}
