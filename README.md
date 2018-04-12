@@ -1,1 +1,2 @@
 # Alexa-Skill
+Amazon's Alexa is the voice-activated, interactive AI bot, or personal assistant, that lets people speak with their Amazon Echo, Echo Dot and other Amazon smart home devices. Like Siri and Cortana, Alexa is designed to respond to a number of different commands and even converse with users. Alexa comes with more than a few capabilities: playing music, pulling up the weather or even reading news. But Alexa Skills are apps that give Alexa even more abilities, letting her speak to more devices even websites.
