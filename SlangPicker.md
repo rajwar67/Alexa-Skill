@@ -21,4 +21,7 @@ INTENTS: <br>
 <ol>
   <li> Tell me what is new </li>
   <li> Tell me a slang </li>
+  <li> Another one </li>
+  <li> Trending slang </li>
+ 
   </ol>
