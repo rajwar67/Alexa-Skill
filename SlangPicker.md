@@ -23,5 +23,7 @@ INTENTS: <br>
   <li> Tell me a slang </li>
   <li> Another one </li>
   <li> Trending slang </li>
+  <li> Give me a slang </li>
+  <li> Slang please </li>
  
   </ol>
