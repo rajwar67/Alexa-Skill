@@ -16,3 +16,9 @@ INTENTS: <br>
 2 . AMAZON.HelpIntent<br>
 3 . AMAZON.StopIntent<br>
 4 . AMAZON.CancelIntent<br>
+<br>
+<H3> Utterances : </H3>
+<ol>
+  <li> Tell me what is new </li>
+  <li> Tell me a slang </li>
+  </ol>
