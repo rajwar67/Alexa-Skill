@@ -18,7 +18,7 @@ People are unaware of actual meaning of slang words and often end up using them 
   <li> AMAZON.StopIntent</li>
   <li> AMAZON.CancelIntent</li>
 </ol>
-<br> <br>
+<br>
 <H3> Utterances : </H3>
 <ol>
   <li> Tell me what is new </li>
