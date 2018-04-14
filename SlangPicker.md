@@ -30,5 +30,7 @@ People are unaware of actual meaning of slang words and often end up using them 
  
   </ol>
 <br>
-Innvocation call : <t>Alexa, launch slang it right and tell me a slang</t>
+Innvocation call : <t>Alexa, launch slang it right and tell me a slang</t> <br>
+Innvocation call : Alexa, open slang it right and tell me another one <br>
+Innvocation call : Alexa, open slang it right
               
