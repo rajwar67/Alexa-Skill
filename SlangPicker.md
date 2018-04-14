@@ -29,3 +29,6 @@ People are unaware of actual meaning of slang words and often end up using them 
   <li> Slang please </li>
  
   </ol>
+<br>
+Innvocation call : <t>Alexa, launch slang it right and tell me a slang</t>
+              
